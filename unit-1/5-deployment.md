@@ -33,3 +33,7 @@ Back to your wallet you should see your newly created token
 Click on the transaction and see a page open with your transaction
 
 <img alt="explorer-transaction" width="800"  src="/images/explorer-transaction.png">
+
+Finally complete our Learn & Earn form to claim your rewards
+
+https://docs.google.com/forms/d/e/1FAIpQLSdVoIskmdfJ3v0OLP_8_7y0JpQH46eCO0S8G-kBlWmuvpDCXQ/viewform

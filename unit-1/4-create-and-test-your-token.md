@@ -46,26 +46,16 @@ Define a mint transition that takes a balance and returns a token record:
 Define a transfer transition that takes a receiver, amount, and token, and returns two token records:
 
 ```
-    // The `transfer` function sends the specified number of tokens
-    // to the receiver from the provided token record.
-
-        // Checks the given token record has sufficient balance.
-        // This `sub` operation is safe, and the proof will fail
-        // if an overflow occurs.
-        // `difference` holds the change amount to be returned to sender.
-
-
-        // Produce a token record with the change amount for the sender.
-
-        };
-
-        // Produce a token record for the specified receiver.
-
-        };
-
-        // Output the sender's change record and the receiver's record.
-
-    }
+//transition transfer(token: Token, to: address, amount: u64) -> (Token, Token) {
+    // Calculate the remaining balance for the sender
+    let difference: 
+    // Create a token for the sender with the remaining balance
+    let remaining: 
+    // Create a token for the recipient with the transferred amount
+    let transferred: 
+    // Return both tokens
+    return (remaining, transferred);
+//}
 ```
 
 #### [BONUS TASK] (B) Define balance_of function
@@ -98,25 +88,16 @@ program token_jimito.aleo {
             amount: amount,
         };
     }
-
-    // The `transfer` function sends the specified number of tokens
-    // to the receiver from the provided token record.
-
-        // Checks the given token record has sufficient balance.
-        // This `sub` operation is safe, and the proof will fail
-        // if an overflow occurs.
-        // `difference` holds the change amount to be returned to sender.
-
-
-        // Produce a token record with the change amount for the sender.
-
-        };
-
-        // Produce a token record for the specified receiver.
-
-        };
-
-        // Output the sender's change record and the receiver's record.
+    //transition transfer(token: Token, to: address, amount: u64) -> (Token, Token) {
+    // Calculate the remaining balance for the sender
+    let difference: 
+    // Create a token for the sender with the remaining balance
+    let remaining: 
+    // Create a token for the recipient with the transferred amount
+    let transferred: 
+    // Return both tokens
+    return (remaining, transferred);
+    //}
 
     }
 

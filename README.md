@@ -81,7 +81,6 @@ Aleo’s unique approach to privacy and scalability positions it as a leading pl
 - [Aleo JavaScript/TypeScript SDK](https://developer.aleo.org/sdk/typescript/overview)
 - [Aleo WASM SDK](https://developer.aleo.org/sdk/wasm/installation)
 - [Aleo Python SDK](https://developer.aleo.org/sdk/python/aleo-sdk)
-- [Create Aleo App SDK](https://developer.aleo.org/sdk/create-aleo-app/installation)
 - [Aleo Explorer](https://www.aleo.network/)
 - [Leo Playground](https://play.leo-lang.org/)
 

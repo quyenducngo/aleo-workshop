@@ -73,5 +73,4 @@ Aleo’s unique approach to privacy and scalability positions it as a leading pl
 - [Aleo Grants](https://aleo.org/grants/)
 - [Awesome Aleo](https://github.com/howardwu/awesome-aleo)
 
-## TODO
 

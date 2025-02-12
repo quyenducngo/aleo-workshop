@@ -43,28 +43,6 @@ Aleo’s unique approach to privacy and scalability positions it as a leading pl
   - [Create and Test Your Token](./unit-1/4-create-and-test-your-token.md)
   - [Deployment](./unit-1/5-deployment.md)
 
-- [[TODO] Unit Two](./unit-2/README.md): Make a simple DEX in Leo
-
-  - [Offchain & Onchain Executions]()
-  - [Working with Private/Public Records]()
-  - [Spend, Transfer, Interact with Aleo Credits]()
-  - [Deploy and Set Up Your DEX Programs]()
-
-- [[TODO] Unit Three](./unit-3/README.md): Simple NFT Marketplace in Leo
-
-  - [String Manipulations]()
-  - [Timelock]()
-  - [Random Number]()
-
-- [[TODO] Unit Four](./unit-4/README.md): Create React App for Your NFT Marketplace
-  - [Setup Environment]()
-
-### Advanced
-
-- [[TODO] Multisig Admin]()
-- [[TODO] Aleo Lang]()
-- [[TODO] zkML]()
-- [[TODO] zPass]()
 
 ### [TODO] More Workshops
 
@@ -97,15 +75,3 @@ Aleo’s unique approach to privacy and scalability positions it as a leading pl
 
 ## TODO
 
-- [x] Write an Introduction to this page
-- [x] Add a quick explanatory piece/workshop/article to introduce Leo and how the Aleo blockchain works.
-- [x] Finish making Unit 1
-- [ ] Finish making Unit 2
-- [ ] Finish making Unit 3
-- [ ] Finish making Unit 4
-- [ ] Record Videos for each Unit
-- [ ] Add Multisig Admin Example
-- [ ] Add zkML Example
-- [ ] Add zPass Example
-- [ ] Add a curated list of all Aleo workshops and organize them.
-- [ ] Add FAQ lists of all asked questions below.
